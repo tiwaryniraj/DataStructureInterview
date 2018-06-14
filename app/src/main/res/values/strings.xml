@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Data Structure Interview</string>
+
+    <!-- Text to display in the list when there are no earthquakes [CHAR LIMIT=NONE] -->
+    <string name="no_DataStructures">No earthquakes found.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="answer">Answer:</string>
+</resources>
