@@ -1,1 +1,1 @@
-# DataStructureInterview
+# DataStructureInterviewApp
